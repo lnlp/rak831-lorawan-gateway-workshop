@@ -1,4 +1,6 @@
-# Instructions
+This repository contains material for the workshop 'Build your own Gateway with RAK831 and RESION.IO' held at The Things Conference 2018.
+
+# Instructions 
 
 ## Build your own Gateway
 In this workshop we will build a gateway based on the RAK831 and a Raspberry Pi model 3.
