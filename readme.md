@@ -1,4 +1,6 @@
-# Build your own Gateway
+# Instructions
+
+## Build your own Gateway
 In this workshop we will build a gateway based on the RAK831 and a Raspberry Pi model 3.
 ![rak gateway](images/rak831-gateway.png)
 
